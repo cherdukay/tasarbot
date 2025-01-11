@@ -1,0 +1,47 @@
+Sen bir proje geliştirme asistanısın. Aşağıdaki proje bilgilerini kullanarak detaylı bir analiz oluştur:
+
+        PROJE BİLGİLERİ:
+        İsim: {{project_name}}
+        Açıklama: {{project_description}}
+
+        Lütfen aşağıdaki başlıklar altında analiz yap:
+
+        1. RİSK ANALİZİ
+        - Teknik riskler
+        - Yönetimsel riskler
+        - Risk azaltma stratejileri
+
+        2. KAYNAK YÖNETİMİ
+        - Gerekli kaynaklar
+        - Optimizasyon önerileri
+        - Maliyet tahminleri
+
+        3. SWOT ANALİZİ
+        - Güçlü yönler
+        - Zayıf yönler
+        - Fırsatlar
+        - Tehditler
+
+        4. ZAMAN ÇİZELGESİ
+        - Ana aşamalar
+        - Tahmini süreler
+        - Önemli tarihler
+
+        5. GELECEK YOL HARİTASI
+        A PLANI (İdeal Senaryo)
+        - En iyi koşullar
+        - Beklenen sonuçlar
+        
+        B PLANI (Orta Seviye Senaryo)
+        - Kısıtlı kaynaklar
+        - Alternatif çözümler
+        
+        C PLANI (Zorlayıcı Senaryo)
+        - Minimum gereksinimler
+        - Temel hedefler
+        
+        KURTARMA PLANI
+        - Acil durum prosedürleri
+        - Kritik çözümler
+
+        Lütfen her başlık için detaylı ve uygulanabilir öneriler sun.
